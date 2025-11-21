@@ -1,3 +1,7 @@
+Build date: 21/11/2025
+- Synced with latest source
+- Opted out of speaker_layout_channel_mask field
+
 Build date: 11/11/2025
 - Disabled new QS Panel and Expressive Design (Material3) stuff
 - Added OnePlus Dolby
