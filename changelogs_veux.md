@@ -1,3 +1,11 @@
+Build date: 12/01/2026
+- Initial A16 QPR1 build
+- Synced with latest source
+- Fixed SystemUI crash when alarm or ringtone rings while connected to Bluetooth
+- Moved Dolby slider to M3 SliderPreference
+- Enabled the new auto network selection UI
+- Reduced blur radius
+
 Build date: 21/11/2025
 - Synced with latest source
 - Opted out of speaker_layout_channel_mask field
