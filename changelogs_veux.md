@@ -1,3 +1,7 @@
+Build date: 19/02/2026
+- Initial A16 QPR2 build
+- Updated Blobs From OS1.0.13.0.TKCEUXM (December Vendor Security Patch)
+
 Build date: 12/01/2026
 - Initial A16 QPR1 build
 - Synced with latest source
