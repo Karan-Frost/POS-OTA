@@ -1,3 +1,6 @@
+Build date: 20/02/2026
+- Fixed random reboots
+
 Build date: 19/02/2026
 - Initial A16 QPR2 build
 - Updated Blobs From OS1.0.13.0.TKCEUXM (December Vendor Security Patch)
