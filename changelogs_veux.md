@@ -1,3 +1,7 @@
+Build date: 17/03/2026
+- Synced with latest source
+- Comes with Positron kernel (20260301) without KernelSU
+
 Build date: 20/02/2026
 - Fixed random reboots
 
