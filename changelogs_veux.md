@@ -1,3 +1,9 @@
+Build date: 10/04/2026
+- Synced with latest source
+- Updated brightness configs from stallion
+- Fixed some media codec issues
+- Fixed IMEI leak in props
+
 Build date: 17/03/2026
 - Synced with latest source
 - Comes with Positron kernel (20260301) without KernelSU
