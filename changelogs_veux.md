@@ -1,3 +1,8 @@
+Build date: 22/04/2026
+- Fixed non-working rear camera in WhatsApp and some more apps
+- Revamped Charging Control page
+- Added glanceable hub settings for lock screen widgets
+
 Build date: 10/04/2026
 - Synced with latest source
 - Updated brightness configs from stallion
