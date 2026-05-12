@@ -1,3 +1,8 @@
+Build date: 12/05/2026
+- Fixed camera when modules like BCR is installed
+- Enabled auto unsignaled latching
+- Updated UVC from android16-6.12
+
 Build date: 22/04/2026
 - Fixed non-working rear camera in WhatsApp and some more apps
 - Revamped Charging Control page
