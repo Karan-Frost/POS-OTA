@@ -1,3 +1,6 @@
+Build date: 12/06/2026
+- Fixed some Bluetooth issues when connected to Windows
+
 Build date: 12/05/2026
 - Fixed camera when modules like BCR is installed
 - Enabled auto unsignaled latching
