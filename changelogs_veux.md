@@ -1,3 +1,8 @@
+Build date: 20/08/2026
+- Initial A17 QPR0 build
+- Enabled CameraX extensions support
+- Fixed audio not working with some USB Type-C headphones
+
 Build date: 12/06/2026
 - Fixed some Bluetooth issues when connected to Windows
 
