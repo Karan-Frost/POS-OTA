@@ -1,14 +1,18 @@
-{
-  "response": [
-    {
-        "datetime": 1787231206,
-        "filename": "PixelOS_veux-17.0-20260820-1320.zip",
-        "id": "967945e15a88fd0b46029011ea7b8bac",
-        "romtype": "Monthly",
-        "size": 2563346561,
-        "url": "https://sourceforge.net/projects/pixelos-veux/files/PixelOS_veux-17.0-20260820-1320.zip/download",
-        "stream_url": "https://sourceforge.net/projects/pixelos-veux/files/PixelOS_veux-17.0-20260820-1320.zip/download",
-        "version": "seventeen"
-    }
-  ]
-}
+[
+  {
+    "datetime": 1787568590,
+    "files": [
+      {
+        "filename": "PixelOS_veux-17.0-20260824-1103.zip",
+        "os_patch_level": "2026-08-01",
+        "os_sdk_level": 37,
+        "ota_property_files": "payload_metadata.bin:4256:165384,payload.bin:4256:2563343802,payload_properties.txt:2563348116:156,apex_info.pb:1971:1448,care_map.pb:3466:743,metadata:69:682,metadata.pb:819:1104",
+        "sha256": "6d1d54f5e4aa8f2fa20eb3ab59e7cb5c6687af405f286b761b2d4099e606bb96",
+        "size": 2563351208,
+        "url": "https://sourceforge.net/projects/pixelos-veux/files/PixelOS_veux-17.0-20260824-1103.zip/download"
+      }
+    ],
+    "type": "Monthly",
+    "version": "17.0"
+  }
+]

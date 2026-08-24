@@ -1,3 +1,6 @@
+Build date: 24/08/2026
+- Fixed blur toggle
+
 Build date: 20/08/2026
 - Initial A17 QPR0 build
 - Enabled CameraX extensions support
