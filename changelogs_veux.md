@@ -1,3 +1,7 @@
+Build date: 13/09/2026
+- Synced with latest source
+- Merged latest LineageOS kernel changes
+
 Build date: 24/08/2026
 - Fixed blur toggle
 
