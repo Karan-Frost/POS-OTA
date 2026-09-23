@@ -1,18 +1,29 @@
 [
   {
-    "datetime": 1789267655,
+    "datetime": 1790161993,
     "files": [
       {
-        "filename": "PixelOS_veux-17.0-20260913-0247.zip",
+        "filename": "PixelOS_veux-17.0-20260923-1116.zip",
         "os_patch_level": "2026-09-01",
         "os_sdk_level": 37,
-        "ota_property_files": "payload_metadata.bin:4256:165958,payload.bin:4256:2588484596,payload_properties.txt:2588488910:156,apex_info.pb:1971:1448,care_map.pb:3466:743,metadata:69:682,metadata.pb:819:1104",
-        "sha256": "52ea0fad25ddda555d7cb1b45b4184c108c88b98cbe8fe75d14715ae6b65c11c",
-        "size": 2588492002,
-        "url": "https://sourceforge.net/projects/pixelos-veux/files/PixelOS_veux-17.0-20260913-0247.zip/download"
+        "ota_property_files": "payload_metadata.bin:4256:165960,payload.bin:4256:2587976358,payload_properties.txt:2587980672:156,apex_info.pb:1971:1448,care_map.pb:3466:743,metadata:69:682,metadata.pb:819:1104                        ",
+        "sha256": "3cbb03462a15816774f734b822bea43241116b7c5216766c92d3f9c92b2d1af9",
+        "size": 2587983764,
+        "url": "https://frost.ashds.dev/seventeen/veux/PixelOS_veux-17.0-20260923-1116.zip"
       }
     ],
     "type": "Monthly",
-    "version": "17.0"
+    "version": "17.0",
+    "incremental": [
+      {
+        "filename": "veux-incremental_2026092300.zip",
+        "os_patch_level": "2026-09-01",
+        "os_sdk_level": 37,
+        "sha256": "5f4e113d2141182dd19d6f201b56a471f1165eb38248daa73b955b793cda05d6",
+        "size": 91954615,
+        "url": "https://github.com/Karan-Frost/POS-OTA/releases/download/20260923/veux-incremental_2026092300.zip",
+        "ota_property_files": "payload_metadata.bin:5177:358282,payload.bin:5177:91946290,payload_properties.txt:91951525:154,apex_info.pb:2676:1664,care_map.pb:4387:743,metadata:69:786,metadata.pb:923:1705                    "
+      }
+    ]
   }
 ]

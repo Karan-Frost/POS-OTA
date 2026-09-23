@@ -1,3 +1,7 @@
+Build date: 23/09/2026
+- Hid developer options and USB debugging from apps
+- Improved spoofing
+
 Build date: 13/09/2026
 - Synced with latest source
 - Merged latest LineageOS kernel changes
